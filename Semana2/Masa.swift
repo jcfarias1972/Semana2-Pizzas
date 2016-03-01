@@ -2,7 +2,7 @@
 //  Masa.swift
 //  Semana2
 //
-//  Created by Marian Mora on 07/02/16.
+//  Created by Juan Carlos Farías on 01/03/16.
 //  Copyright © 2016 Jose Mora. All rights reserved.
 //
 
