@@ -3,7 +3,7 @@
 //  Semana2
 //
 //  Created by Juan Carlos Farías on 01/03/16.
-//  Copyright © 2016 JByFar2016. All rights reserved.
+//  Copyright © 2016 ByFar2016. All rights reserved.
 //
 
 import UIKit
